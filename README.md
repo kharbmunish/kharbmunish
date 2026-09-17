@@ -7,4 +7,4 @@
 ### Reach me
 
 [![Website](https://img.shields.io/badge/website-munishkharb.com-e0a34e?style=flat-square&labelColor=1f1f1d)](https://munishkharb.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fkharbmunish-e0a34e?style=flat-square&labelColor=1f1f1d)](https://linkedin.com/in/kharbmunish)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fmunishkharb-e0a34e?style=flat-square&labelColor=1f1f1d)](https://linkedin.com/in/munishkharb)
