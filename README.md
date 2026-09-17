@@ -4,4 +4,7 @@
 - **What I do:** threat modeling and secure design review, penetration testing (web, mobile, API, desktop), secure code review in Java and Python, DevSecOps and ASPM programs, detection engineering on Wazuh.
 - **Current focus:** AWS and Kubernetes security, AI and LLM application security, agent and MCP threat modeling.
 
-**Reach me:** [munishkharb.com](https://munishkharb.com) · [LinkedIn](https://linkedin.com/in/kharbmunish)
+### Reach me
+
+[![Website](https://img.shields.io/badge/website-munishkharb.com-e0a34e?style=flat-square&labelColor=1f1f1d)](https://munishkharb.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in%2Fkharbmunish-e0a34e?style=flat-square&labelColor=1f1f1d)](https://linkedin.com/in/kharbmunish)
